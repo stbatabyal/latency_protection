@@ -2,7 +2,7 @@
 ## author: Saikat Batabyal and Vitaly Ganusov
 ## date: 2025-09-24
 
-## Overview
+## Overview (R code)
 Stopping a program of community-wide prophylactic treatment of Mtb infection may result in increase in TB cases.
 Benefits of MTBI treatment program depend on TB prevalence and immunological details. Here we investigate the net difference between the benefits of reduction during MTBI treatment program (AOC)
 and the increase of TB individuals after stopping the treatment program (AUC).
@@ -32,7 +32,7 @@ Explain how to run the R code.
     *   `scales`
     
     
-## Overview
+## Overview (Mathematica code)
 This study aims to investigate the influence of prior Mtb infection on both the timing and pathological severity of progression to active tuberculosis.
 
 ## Files
