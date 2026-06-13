@@ -1,5 +1,5 @@
 ## Title: MTBI treatment program
-## author: Saikat Batabyal and Vitaly Ganusov
+## author: Dr. Saikat Batabyal and Dr. Vitaly V. Ganusov
 ## date: 06-13-2026
 
 ## Overview (R code)
