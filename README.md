@@ -36,7 +36,7 @@ Explain how to run the R code.
 This study aims to investigate the influence of prior Mtb infection on both the timing and pathological severity of progression to active tuberculosis.
 
 ## Files
-*   `[fitting_models_to_progression_data-Badger-1949.nb]`: Mtb infection (MTBI) delays TB development upon re-exposure (Supplemental Figure S2).
+*   `[model-epi-n-1-vs-badger-data-TOSHARE.nb]`: Mtb infection (MTBI) delays TB development upon re-exposure (Supplemental Figure S2).
 
 ## Data Availability
 *  `[badger_art49-all-edited.csv]`: Published data from doi: 10.1164/art.1949.60.3.305
