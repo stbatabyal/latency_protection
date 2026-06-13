@@ -1,6 +1,6 @@
 ## Title: MTBI treatment program
 ## author: Saikat Batabyal and Vitaly Ganusov
-## date: 2025-09-24
+## date: 06-13-2026
 
 ## Overview (R code)
 Stopping a program of community-wide prophylactic treatment of Mtb infection may result in increase in TB cases.
@@ -36,7 +36,12 @@ Explain how to run the R code.
 This study aims to investigate the influence of prior Mtb infection on both the timing and pathological severity of progression to active tuberculosis.
 
 ## Files
-*   `[model-epi-n-1-vs-badger-data-TOSHARE.nb]`: Mtb infection (MTBI) delays TB development upon re-exposure (Supplemental Figure S2).
+*   `[model-epi-n-1-vs-badger-data-TOSHARE.nb]`: Explains the data on TST conversion and progression to TB of a cohort of nursing students (Supplemental Figure S2).
+
+## Supplemental Codes
+
+* `[graphics-12-2.m & tools-12.m]`: Calculates and plots error bars for experimental measurements. Produces supplementary figures that are not included in the manuscript.
+(These scripts are not required to reproduce the main analysis but provide additional visualization and validation tools.)
 
 ## Data Availability
 *  `[badger_art49-all-edited.csv]`: Published data from doi: 10.1164/art.1949.60.3.305
